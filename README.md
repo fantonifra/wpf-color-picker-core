@@ -5,7 +5,7 @@ Standalone Wpf color picker
 ![](screenshots/screenshot.png)
 
 ## Requirements
-**.Net framework >= 4.6.2**
+**.Net core >= 6.0**
 
 ## Installation
 [Install nuget package here](https://www.nuget.org/packages/dsafa.WpfColorPicker)
